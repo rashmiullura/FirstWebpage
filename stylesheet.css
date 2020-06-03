@@ -1,0 +1,140 @@
+/* ======== headings section ======= */
+.sit {
+background-color: orange;
+font-size: 25px;
+padding-top: 0px;
+padding-bottom: 10px;
+color: red;
+font-weight: bold;
+text-decoration: underline;
+margin: 0px;
+text-align: center;
+height: 75px;
+display: block;
+border: solid 2px #000;
+}
+.high {
+background-color: white;
+font-size: 35px;
+}
+img {
+max-width: 200%;
+max-height: 85px;
+float: left;
+margin: 0px;
+display: block;
+}
+/* ======== body section ======= */
+body{
+background-color: rgb(253, 228, 130);
+margin: 0px;
+font-family: Georgia;
+font-size: 14px;
+}
+/* ======== paragraph section ======= */
+#nav {
+background-color: darkgreen;
+height: 35px;
+font-size: 25px;
+font-weight: bold;
+font: Tahoma;
+}
+#nav ul {
+list-style: none;
+padding: 0px;
+margin: 0px;
+text-align: centre;
+}
+#nav li {
+display: inline;
+padding: 15px;
+vertical-align: middle;
+}
+#nav a {
+text-decoration: none;
+padding: 8px 35px 8px 35px;
+color: white;
+vertical-align: middle;
+}
+#nav a:hover {
+background-color: grey;
+color: black;
+}
+.intro {
+background-color: rgb(0, 128, 128);
+opacity: 1.0;
+width: 800px;
+height: 1000px;
+margin: 50px 500px 50px 300px;
+box-shadow: 15px 15px 5px #dadada;
+border: black 5px dashed;
+}
+.photo {
+padding: 10px 10px 10px 40px ;
+max-width: 100%;
+max-height: 100%;
+}
+#para {
+background-color: grey;
+width: 400px;
+height: 300px;
+margin: 670px 200px 10px 200px;
+font-size: 25px;
+color: white;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+padding-top: 10px;
+}
+#footer {
+background-color: darkgreen;
+margin-top: 50px 0px 0px 0px;
+height: 50px;
+clear: both;
+border-raduis: 5px;
+color: #efe5d0;
+text-align: center;
+font: Tahoma;
+font-size: 25px;
+border: solid 2px yellow;
+width: 1500px;
+}
+#footer ul {
+padding: 0px;
+list-style-type: none;
+text-align: center;
+margin: 0px;
+}
+#footer li {
+display: inline;
+vertical-align: middle;
+padding: 5px;
+}
+#footer a {
+padding: 5px 15px 5px 15px;
+text-decoration: none;
+color: white;
+vertical-align: middle;
+}
+#footer a:hover {
+background-color: red; 
+}
+.copy {
+padding-bottom: 10px;
+color: red;
+padding-top: 10px;
+margin-top: 0px;
+background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
